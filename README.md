@@ -1,4 +1,4 @@
-# Solutions for projects of Python Developer path at JetBrains Academy
+# Solutions for projects of Python Developer path at JetBrains Academy (ARCHIVED)
 
 https://hyperskill.org/tracks/2
 
